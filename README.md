@@ -1,4 +1,7 @@
 # Investigaci-nDeOperaciones
-MitziVazquezMontes
+# ¡Advertencia! Si cambias el branch principal se te bajarán 10 puntos
 
-MitziVazquezMontes
+### EmilianoNietoLeal
+### PiedraMorenoAlitza
+### JoseAlejandroBarronHernandez
+### MitziVazquezMontes
