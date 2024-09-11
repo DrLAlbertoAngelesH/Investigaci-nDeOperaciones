@@ -8,7 +8,7 @@
 ### KeniaPaolaSáenzSaavedra
 ### JoseManuelDiazRivera
 ### NahumArvizuCamerogit
-### ErickElisandroPesinaQuintanilla
+### ErickElisandroPesinaQuintanila
 ### SaúlGarcíaMojica
 ### XimenaGpeIbarraSantiago
 ### XimenaGarciaBailon
