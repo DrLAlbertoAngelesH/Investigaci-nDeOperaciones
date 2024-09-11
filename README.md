@@ -13,3 +13,5 @@
 ### XimenaGpeIbarraSantiago
 ### XimenaGarciaBailon
 ### delaCruzGarciaAnaKaren
+### CesarIvanRicoLopez
+git
