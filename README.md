@@ -6,3 +6,4 @@
 ### JoseAlejandroBarronHernandez
 ### MitziVazquezMontes
 ### KeniaPaolaSáenzSaavedra
+### JoseManuelDiazRivera
