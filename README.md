@@ -14,4 +14,3 @@
 ### XimenaGarciaBailon
 ### delaCruzGarciaAnaKaren
 ### CesarIvanRicoLopez
-git
