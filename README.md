@@ -13,4 +13,3 @@
 ### XimenaGpeIbarraSantiago
 ### XimenaGarciaBailon
 ### delaCruzGarciaAnaKaren
-### DanielaDiazCoronel
