@@ -14,3 +14,4 @@
 ### XimenaGarciaBailon
 ### delaCruzGarciaAnaKaren
 ### DanielaDiazCoronel
+### MaximoResendiz
