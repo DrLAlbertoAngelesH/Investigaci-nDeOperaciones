@@ -8,9 +8,14 @@
 ### KeniaPaolaSáenzSaavedra
 ### JoseManuelDiazRivera
 ### NahumArvizuCamerogit
-### ErickElisandroPesinaQuintanila
+### ErickElisandroPesinaQuintanilla
 ### SaúlGarcíaMojica
 ### XimenaGpeIbarraSantiago
 ### XimenaGarciaBailon
 ### delaCruzGarciaAnaKaren
+### DanielaDiazCoronel
+### AnaLorenaVillalobosDiaz
+### DanielaBaca
+### JoseAlejandroBarronHernandez
+### DiegoHernandezHernandez
 ### AngelaSilvanaHernandezLopez
