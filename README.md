@@ -16,3 +16,4 @@
 ### DanielaDiazCoronel
 ### AnaLorenaVillalobosDiaz
 ### DanielaBaca
+### JoseAlejandroBarronHernandez
