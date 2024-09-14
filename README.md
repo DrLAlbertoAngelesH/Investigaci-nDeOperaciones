@@ -19,3 +19,4 @@
 ### JoseAlejandroBarronHernandez
 ### DiegoHernandezHernandez
 ### AngelaSilvanaHernandezLopez
+### CesarIvanRicoLopez
